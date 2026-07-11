@@ -1,0 +1,1 @@
+This category of [[Loot Card]] contains the following Items:

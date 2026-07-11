@@ -1,0 +1,1 @@
+Bosses have four attacks: two fast, two slow. On the Boss tableau, they have two trackers for their extra attacks. Each time they do a fast attack, the fast attack tracker moves one step, same for the slow attack tracker. When the Tracker is at the last number, instead of their normal attack, they do their special fast/slow attack.

@@ -1,0 +1,1 @@
+a Player that is unconcious cannot use Abilities or Movement Tokens unless specified by an Ability.

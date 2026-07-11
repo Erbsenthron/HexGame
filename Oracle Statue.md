@@ -1,0 +1,1 @@
+A player can commune with the Statue by spending {DECIDE WHAT TO SPEND HERE}, allowing them to pull a card from the [[Oracle Deck]].

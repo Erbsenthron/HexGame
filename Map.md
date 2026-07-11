@@ -1,0 +1,1 @@
+Made up of [[Tile|hexagonal pieces]] containing Small Hexes, on which the player character stands

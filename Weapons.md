@@ -1,0 +1,1 @@
+Most Player Characters can use up to Two weapons at the same time. They often have one or even two attacks the Player can perform with them, costing [[Energy Tokens]]

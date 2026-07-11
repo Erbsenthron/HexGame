@@ -1,0 +1,1 @@
+The Oracle Deck contains Card that can have very positive effects for the Players, but also contains cards that apply curses to Players or have other adverse effects.

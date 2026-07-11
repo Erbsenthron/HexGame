@@ -1,0 +1,1 @@
+When a Player is damaged, they lose damage tokens according to the damage they took. While a Player has 0 Health Tokens, they are concidered [[unconcious]].
